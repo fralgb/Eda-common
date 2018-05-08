@@ -1,0 +1,7 @@
+com/omniselling/common/springboot/configuration/WebConfiguration.class
+com/omniselling/common/springboot/configuration/MultiMsClientConfiguration.class
+com/omniselling/common/springboot/configuration/RemoteServiceZKExecutorConfiguration.class
+com/omniselling/common/springboot/configuration/ZKClientConfiguration.class
+com/omniselling/common/springboot/configuration/HttpClientBuilderConfiguration.class
+com/omniselling/common/springboot/configuration/StandardApplication.class
+com/omniselling/common/springboot/configuration/OmniSpringCommonConfiguration.class

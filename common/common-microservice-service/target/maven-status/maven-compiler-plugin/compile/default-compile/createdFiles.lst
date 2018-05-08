@@ -1,0 +1,12 @@
+com/omniselling/microservice/service/MicroServiceAnnotationLoader.class
+com/omniselling/microservice/service/MicroServiceProcesser.class
+com/omniselling/microservice/service/MicroServiceHttpEnter.class
+com/omniselling/microservice/service/MicroServiceTarget.class
+com/omniselling/microservice/service/MicroServiceDefinitionParser.class
+com/omniselling/microservice/service/MicroServiceDefinitionParser$1.class
+com/omniselling/microservice/service/LocalIpAddressUtil.class
+com/omniselling/microservice/service/MicroServiceLoader.class
+com/omniselling/microservice/service/MicroServiceContext.class
+com/omniselling/microservice/service/MicroServiceRegistrable.class
+com/omniselling/microservice/service/MicroServiceSpringProcesser.class
+com/omniselling/microservice/service/MicroServiceDefinition.class

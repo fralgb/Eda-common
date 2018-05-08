@@ -1,0 +1,10 @@
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/BizRelation.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/DbBind.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/DbModelMapping.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/Convert.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/DbFieldMapping.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/DbIndirectBind.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/Bind.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/DbJoin.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/DbMultiValuedBind.java
+/home/liangbo/eda/git/common/common/common-biz-annotation/src/main/java/com/omniselling/common/biz/annotation/DbBinds.java

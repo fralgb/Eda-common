@@ -1,0 +1,14 @@
+com/omniselling/microservice/client/RemoteServiceZKExecutor$1.class
+com/omniselling/microservice/client/RemoteServiceHttpExecutor.class
+com/omniselling/microservice/client/MicroServiceProxyFactory.class
+com/omniselling/microservice/client/MicroServiceScannerConfigurer.class
+com/omniselling/microservice/client/MicroSerivceBean.class
+com/omniselling/microservice/client/ClassPathMicroServiceDefinitionScanner$3.class
+com/omniselling/microservice/client/RemoteServiceExecutor.class
+com/omniselling/microservice/client/RemoteServiceZKExecutor$3.class
+com/omniselling/microservice/client/ClassPathMicroServiceDefinitionScanner$1.class
+com/omniselling/microservice/client/ClassPathMicroServiceDefinitionScanner.class
+com/omniselling/microservice/client/RemoteServiceZKExecutor$2.class
+com/omniselling/microservice/client/RemoteServiceZKExecutor.class
+com/omniselling/microservice/client/MicroServiceProxyFactory$MicroServiceProxyBean.class
+com/omniselling/microservice/client/ClassPathMicroServiceDefinitionScanner$2.class

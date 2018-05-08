@@ -1,0 +1,7 @@
+/home/liangbo/eda/git/common/common/common-microservice-client/src/main/java/com/omniselling/microservice/client/RemoteServiceExecutor.java
+/home/liangbo/eda/git/common/common/common-microservice-client/src/main/java/com/omniselling/microservice/client/RemoteServiceZKExecutor.java
+/home/liangbo/eda/git/common/common/common-microservice-client/src/main/java/com/omniselling/microservice/client/ClassPathMicroServiceDefinitionScanner.java
+/home/liangbo/eda/git/common/common/common-microservice-client/src/main/java/com/omniselling/microservice/client/MicroServiceProxyFactory.java
+/home/liangbo/eda/git/common/common/common-microservice-client/src/main/java/com/omniselling/microservice/client/RemoteServiceHttpExecutor.java
+/home/liangbo/eda/git/common/common/common-microservice-client/src/main/java/com/omniselling/microservice/client/MicroSerivceBean.java
+/home/liangbo/eda/git/common/common/common-microservice-client/src/main/java/com/omniselling/microservice/client/MicroServiceScannerConfigurer.java

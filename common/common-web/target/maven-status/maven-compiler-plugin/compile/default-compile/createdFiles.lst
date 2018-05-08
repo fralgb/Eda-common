@@ -1,0 +1,10 @@
+com/omniselling/common/web/ApplicationContentUtil.class
+com/omniselling/common/web/ControllerExceptionHandler.class
+com/omniselling/common/web/JacksonHttpMessageConverter.class
+com/omniselling/common/web/RequestProcessingTimeInterceptor.class
+com/omniselling/common/web/ResponseBodyWrapHandlerBean.class
+com/omniselling/common/web/GeneralController.class
+com/omniselling/common/web/secure/AccessRequired.class
+com/omniselling/common/web/ResponseBodyWrapHandlerBean$ResponseBodyWrapHandler.class
+com/omniselling/common/web/AbstractController.class
+com/omniselling/common/web/CORSConfiguration.class

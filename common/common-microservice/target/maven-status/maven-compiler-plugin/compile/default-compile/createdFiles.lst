@@ -1,0 +1,13 @@
+com/omniselling/microservice/MicroServiceException.class
+com/omniselling/microservice/RegistInfo.class
+com/omniselling/microservice/MicroService.class
+com/omniselling/common/provider/IBizModelProvider.class
+com/omniselling/common/provider/BizAbstractModelQueryProvider.class
+com/omniselling/microservice/MicroSerivceIDBuilder.class
+com/omniselling/common/provider/IBizModelQueryProvider.class
+com/omniselling/microservice/GenericUtils.class
+com/omniselling/microservice/MicroSerivceConstant.class
+com/omniselling/microservice/MicroSerivceRequestData.class
+com/omniselling/microservice/None.class
+com/omniselling/common/provider/BizAbstractModelProvider.class
+com/omniselling/microservice/MicroServiceHelper.class

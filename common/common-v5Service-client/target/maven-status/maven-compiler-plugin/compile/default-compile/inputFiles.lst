@@ -1,0 +1,13 @@
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/TypeUtil.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/ClassPathMicroServiceDefinitionScanner.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/V5Service.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/V5ServiceException.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/V5ServiceHelper.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/V5ServiceProxyFactory.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/RemoteV5ServiceHttpExecutor.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/RemoteV5ServiceZookeeperExecutor.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/ClassUtil.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/V5SerivceBean.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/V5ServiceScannerConfigurer.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/RemoteV5ServiceExecutor.java
+/home/liangbo/eda/git/common/common/common-v5Service-client/src/main/java/com/omniselling/common/v5service/client/configuration/RemoteV5ServiceExecutorConfiguration.java

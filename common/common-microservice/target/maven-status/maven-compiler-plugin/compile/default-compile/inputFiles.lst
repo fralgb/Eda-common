@@ -1,0 +1,13 @@
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/MicroSerivceConstant.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/MicroService.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/common/provider/BizAbstractModelProvider.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/MicroSerivceIDBuilder.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/MicroSerivceRequestData.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/common/provider/IBizModelQueryProvider.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/RegistInfo.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/GenericUtils.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/MicroServiceHelper.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/MicroServiceException.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/microservice/None.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/common/provider/BizAbstractModelQueryProvider.java
+/home/liangbo/eda/git/common/common/common-microservice/src/main/java/com/omniselling/common/provider/IBizModelProvider.java

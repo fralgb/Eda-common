@@ -1,0 +1,14 @@
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/configuration/HikariDataSourceUtil.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/DbModelServiceFactory.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/configuration/MybatisConfiguration.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/DbBaseService.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/configuration/DataBaseConfiguration.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/HikariDataSourceUtil.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/DbBaseModel.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/DbMapping.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/MyBatisExampleHelper.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/SqlMapper.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/BaseDAO.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/configuration/MybatisSqlMapperConfiguration.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/DbBaseServiceImpl.java
+/home/liangbo/eda/git/common/common/common-dao/src/main/java/com/omniselling/common/dao/LimitOffsetExample.java

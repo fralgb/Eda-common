@@ -1,0 +1,12 @@
+com/omniselling/common/biz/annotation/DbIndirectBind.class
+com/omniselling/common/biz/annotation/Bind.class
+com/omniselling/common/biz/annotation/BizRelation.class
+com/omniselling/common/biz/annotation/DbJoin.class
+com/omniselling/common/biz/annotation/Convert.class
+com/omniselling/common/biz/annotation/DbFieldMapping.class
+com/omniselling/common/biz/annotation/DbBinds.class
+com/omniselling/common/biz/annotation/DbBind.class
+com/omniselling/common/biz/annotation/DbModelMapping.class
+com/omniselling/common/biz/annotation/DbMultiValuedBind.class
+com/omniselling/common/biz/annotation/BizRelation$Type.class
+com/omniselling/common/biz/annotation/DbJoin$JoinType.class
